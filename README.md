@@ -1,1 +1,1 @@
-# Loan_Risk_prediction_project
+# Loan_Risk_prediction_ML_project
